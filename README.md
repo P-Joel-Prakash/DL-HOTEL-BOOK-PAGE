@@ -46,3 +46,5 @@ URL: https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png
 Bree Serif
 
 Roboto
+
+site: https://hotelbookpagedl.ccbp.tech/
