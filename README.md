@@ -1,4 +1,4 @@
- **Hotel Booking Page**
+# Hotel-Booking-Page
  
 In this assignment, let's build a Hotel Booking Page by applying the concepts we learned till now. You can use the Bootstrap concepts as well.
 
